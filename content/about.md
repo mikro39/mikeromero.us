@@ -1,25 +1,17 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "Mike Romero - Architect, Engineer, Adventuerer"
+date = "7-17-2023"
+aliases = ["about-me", "contact"]
+author = "Mike Romero"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+My name is **Michael Romero**, and I am a Site Reliability, Systems, and DevOps Engineer and Architect with a passion for complex systems. 
 
-Hugo makes use of a variety of open source projects including:
+I run an enterprise homelab where i tinker with GitOps, develop applications, play with AI, and host servers for friends and video games. I enjoy what technology has to offer, and find satisfaction in great, reliabile systems.  
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+It is more important to know more than just technology to be an architect of reliability, and this is something I take to heart. From studying art and literature, to delving into mechanical engineering and the art of road building, software and hardware systems can learn a lot from traditional fields. You'll find me deep into a variety of books ranging from Software development, science, world affairs, and engineering, to the great works of fiction and nonfiction that we are lucky to have such access to.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+While I have no degree, I have studied at BYU Idaho and Western Governors University in Computer Science, Salt Lake Community College for Shipping Logistics, and the United States Army in Forign Relations and Leadership. The world is my school, and I have found it is more important to show what you have learned than to focus on where a piece of paper is from.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+For my accoplishments, I have built several Site Reliability Engineering (SRE) teams, trained individuals on SRE principals, and performed various cloud Lift and Shifts. I have also served the US as a Korean Linguist, lived overseas as a service missionary to the nation of South Korea, and volunteered on the board of the MS Societies MS 150 Bike Tour in Utah. I am also an accomplished Photographer and Videographer, Outdoorsman and Mountaineer,  and cyclist.
