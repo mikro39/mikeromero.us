@@ -148,9 +148,9 @@ url = "https://www.linkedin.com/in/michael-romero-2359b140/"
 
 [[params.social]]
 name = "substack"
-icon = "fa fa-pencil-square"
+icon = "fa fa-2x fa-pencil"
 weight = 5
-url = "https://medium.com/@johndoe"
+url = "https://mikeromero.substack.com"
 
 [[params.social]]
 name = "RSS"
