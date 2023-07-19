@@ -156,7 +156,7 @@ url = "https://mikeromero.substack.com"
 name = "RSS"
 icon = "fa fa-2x fa-rss"
 weight = 6
-url = "https://myhugosite.com/index.xml"
+url = "https://mikeromero.us/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
