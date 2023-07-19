@@ -47,5 +47,14 @@ What a world we live in.</description>
       <description>Working on updating this. :)</description>
     </item>
     
+    <item>
+      <title>Resume</title>
+      <link>http://mikeromero.us/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mikeromero.us/resume/</guid>
+      <description>Mike Romero</description>
+    </item>
+    
   </channel>
 </rss>
