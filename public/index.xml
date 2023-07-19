@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Romero</title>
+    <link>http://mikeromero.us/</link>
+    <description>Recent content on Mike Romero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Jul 2023 18:37:12 -0600</lastBuildDate><atom:link href="http://mikeromero.us/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://mikeromero.us/posts/firstpost/</link>
+      <pubDate>Mon, 17 Jul 2023 18:37:12 -0600</pubDate>
+      
+      <guid>http://mikeromero.us/posts/firstpost/</guid>
+      <description>What Post to be First Link to heading This is the first post i have made on my fancy new page. So why do i have so many place to read from me? Well, it is a formality question really.
+This page is my personal website, where i will talk in a vaccume. Sometimes the subject will be on things other than technology, for example, this post. For this, i am writing about why i made a site on top of my substack, and on top of my other social media.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://mikeromero.us/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mikeromero.us/about/</guid>
+      <description>My name is Michael Romero, and I am a Site Reliability, Systems, and DevOps Engineer and Architect with a passion for complex systems.
+I run an enterprise homelab where i tinker with GitOps, develop applications, play with AI, and host servers for friends and video games. I enjoy what technology has to offer, and find satisfaction in great, reliabile systems.
+It is more important to know more than just technology to be an architect of reliability, and this is something I take to heart.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://mikeromero.us/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mikeromero.us/contact/</guid>
+      <description>The best method to contact me is through my listed Social platforms. In this world of data skimming applications, adding contact details here would only increase the Spam and scam calls i recieve daily. I watch those feeds for communication and interaction, and we can take things into better territory once we have established communication.
+What a world we live in.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://mikeromero.us/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mikeromero.us/projects/</guid>
+      <description>Working on updating this. :)</description>
+    </item>
+    
+  </channel>
+</rss>

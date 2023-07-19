@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# on Mike Romero</title>
+    <link>http://mikeromero.us/tags/c#/</link>
+    <description>Recent content in C# on Mike Romero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Jul 2023 18:37:12 -0600</lastBuildDate><atom:link href="http://mikeromero.us/tags/c#/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://mikeromero.us/posts/firstpost/</link>
+      <pubDate>Mon, 17 Jul 2023 18:37:12 -0600</pubDate>
+      
+      <guid>http://mikeromero.us/posts/firstpost/</guid>
+      <description>What Post to be First Link to heading This is the first post i have made on my fancy new page. So why do i have so many place to read from me? Well, it is a formality question really.
+This page is my personal website, where i will talk in a vaccume. Sometimes the subject will be on things other than technology, for example, this post. For this, i am writing about why i made a site on top of my substack, and on top of my other social media.</description>
+    </item>
+    
+  </channel>
+</rss>
